@@ -10,11 +10,11 @@ body {
 }
 
 #game {
-  background-image: url("https://giphy.com/gifs/nicelandseafood-Q5idwzxmoRkBdiEVpu");
   margin: 10px;
   border: 5px solid black;
   left: 0;
   position: absolute;
+  background-image: url("https://media3.giphy.com/media/Q5idwzxmoRkBdiEVpu/giphy.gif?cid=790b76110c3b2a91c63f9c9fd757f358f9823da9b216bdd4&rid=giphy.gif&ct=g");
   background-size: cover;
 }
 
